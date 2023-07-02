@@ -12,7 +12,7 @@ theme-color: pink # indigo|yellow|pink|green|stone|
 # homepage information
 author: Ivan Weiss Van Der Pol
 author-bio: Passionate Software Engineer\nSpecializing in QA Automation  # change to false to hide
-author-image: logos/logo # file must be in the /assets/img/ folder
+author-image: logos/logo.png  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
