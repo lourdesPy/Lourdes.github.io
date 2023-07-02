@@ -20,8 +20,12 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
-- text: Bitcoin
-  permalink: bitcoin
+- text: Education
+  permalink: education
+- text: Certifications
+  permalink: certifications
+- text: Work
+  permalink: work
 - text: Blog
   permalink: blog
 
