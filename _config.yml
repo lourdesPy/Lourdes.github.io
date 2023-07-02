@@ -7,7 +7,7 @@ title: "Ivan Weiss Van Der Pol - Portfolio"
 description: A Github Pages (Jekyll) template based on TailwindCSS
 
 # color theme for links
-theme-color: stone # indigo|yellow|pink|green|stone|
+theme-color: pink # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Ivan Weiss Van Der Pol
