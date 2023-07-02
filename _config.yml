@@ -3,14 +3,14 @@ baseurl: "" # the name of your github repo
 url: "https://ivanweissvanderpolgh.github.io/" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages ivan "
+title: "Ivan Weiss Van Der Pol - Portfolio"
 description: A Github Pages (Jekyll) template based on TailwindCSS
 
 # color theme for links
-theme-color: indigo # indigo|yellow|pink|green|stone|
+theme-color: stone # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Satoshi Nakamoto
+author: Ivan Weiss Van Der Pol
 author-bio: Creator of Bitcoin  # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
@@ -26,14 +26,14 @@ nav-menu:
   permalink: blog
 
 # use false to turn off any social media links
-twitter: https://twitter.com/
-facebook: https://facebook.com/
-instagram: https://instagram.com/
-github: https://github.com/
-linkedin: https://linkedin.com/
+twitter: false
+facebook: false
+instagram: https://www.instagram.com/ivan_weiss_van_der_pol/
+github: https://github.com/IvanWeissVanDerPolGH/
+linkedin: https://www.linkedin.com/in/ivanweissvanderpol/
 medium: false
 google-scholar: false
-email: false
+email: weissvanderpol.ivan@gmail.com
 
 # footer information
 footer-msg: "Powered by Tailpages"
