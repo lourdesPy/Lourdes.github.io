@@ -26,8 +26,8 @@ nav-menu:
   permalink: certifications
 - text: Work Experience
   permalink: work_experience
-- text: Blog
-  permalink: blog
+- text: Projects
+  permalink: projects
 
 # use false to turn off any social media links
 twitter: false

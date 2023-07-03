@@ -27,5 +27,21 @@ now with the list of objects i can load the information to the web with selenium
 * download the project from my github => [github_link](https://github.com/IvanWeissVanDerPolGH/automated-posting)
 * download the requierments for the project
 
+
+### step 1 setup your own credentials for tha pages in the excel
+
+![image](./../assets/posts/autoposter/excel_users.png)
+
+### step 2 add your products in the products tab 
+![image](./../assets/posts/autoposter/excel_products.png)
+### step 3 run auto poster.py 
 ![image](./../assets/posts/autoposter/auto_poster_finished_reading_excel.png)
 
+
+### step 4? it runs  and you can watch as it is posting the adds
+
+![image](./../assets/posts/autoposter/test_hendyla.png)
+
+### in total i posted 3 pages of adds for my actual business 
+
+![image](./../assets/posts/autoposter/resultado_en_hendyla.png)
