@@ -6,13 +6,24 @@ permalink: about
 
 Hello, I'm Ivan Weiss, a 23-year-old software developer passionate about crafting innovative solutions. With a strong academic background in Software Engineering, I bring a diverse set of skills and expertise to the table
 
+### Languges
+
+I am fluent in English, Spanish (Castilian) and i'm polishing my Dutch (Flemish). Being multilingual enables me to effectively communicate and collaborate with diverse teams and stakeholders, facilitating seamless project execution.
+
+| Languages | Speech   | Reading   | Writing   |
+|-----------|----------|-----------|-----------|
+| English   | Native   | Native    | Native    |
+| Spanish   | Native   | Native    | Native    |
+| Dutch     | Native   | Intermediate | Beginner |
+
 ## Experience
 
 - QA Engineer (Manual Testing) at WPG.srl - [2018/Oct - Present]
-- QA Engineer (Automation Testing) at WPG.srl - [2018/Oct - Present]
 - Software Developer at WPG.srl - [2018/Oct - Present]
 
 ## Skills
+
+As a software engineer, I possess a wide range of technical skills that enable me to tackle complex challenges and deliver high-quality solutions. Here are some of my key skills:
 
 | **Automation:**                                                                          | **Data Analysis:**                                                                   | **Version Control:**                                                                |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |

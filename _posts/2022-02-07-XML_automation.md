@@ -21,6 +21,11 @@ i can store all my data in a file (in this case i chose excel to take advantage 
 with python i can read the file , store the info in a add_object and make an list of add_objects
 now with the list of objects i can load the information to the web with selenium
 
+#### DEMO
+i made a demo (in spanish) of me running the program (note 0 profesional video but gets the job done )
+
+
+[<img  width="50%" height="50%" src="./../assets/posts/autoposter/thumbnail.png">](https://www.youtube.com/watch?v=B-sr9z6YC5E&t=111s)
 ##### requierments 
 
 * download the latest chrome browser => https://chromedriver.chromium.org/downloads
