@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Work experience
+title: Work Experience
 permalink: work_experience
 ---
 ## SOFTWARE TESTER AT WPG.SRL
+
 *FEBRUARY 2019 – PRESENT*
 
 ### MANUAL TESTING
@@ -14,14 +15,17 @@ permalink: work_experience
 - Conducted software testing on WPG-developed applications, following provided documentation.
 
 ### AUTOMATED TESTING
+
 - Created a program to automate manual testing processes, generating configured test cases and producing comprehensive reports with test results.
 - Collaborated with cross-functional teams to improve problem-solving and enhance software testing efficiency.
 
 ### PYTHON SOFTWARE DEVELOPMENT
+
 - Developed an XML message testing system using Python.
 - Created a tool that reads XSD files and generates XML-structured Excel files for easy test case configuration.
 
 ## OWNER/OPERATOR AT 3D-TECH-PY
+
 *MARCH 2018 – PRESENT*
 
 ### INTERPERSONAL SKILLS
