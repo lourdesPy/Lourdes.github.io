@@ -1,22 +1,30 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: about
 ---
 
-> Satoshi Nakamoto is the name used by the presumed pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation. - Wikipedia
+Hello, I'm Ivan Weiss, a 23-year-old software developer passionate about crafting innovative solutions. With a strong academic background in Software Engineering, I bring a diverse set of skills and expertise to the table
 
-## Profile Image
+## Experience
 
-The following profile image is my first NFT avatar.
-<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/279.png">
+- QA Engineer (Manual Testing) at WPG.srl - [2018/Oct - Present]
+- QA Engineer (Automation Testing) at WPG.srl - [2018/Oct - Present]
+- Software Developer at WPG.srl - [2018/Oct - Present]
 
-## References
+## Skills
 
-I copied some references from [wikipedia](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) to show some markdown examples:
+| **Automation:**                                                                          | **Data Analysis:**                                                                   | **Version Control:**                                                                |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| <img src="assets/img/logos/Selenium_logo.svg" alt="Selenium" height="70" width="130"  /> | <img src="assets/img/logos/Pandas_logo.svg" alt="Pandas" height="70" width="130"  /> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"  /> |
 
- - "The misidentification of Satoshi Nakamoto". theweek.com. 30 June 2015. Retrieved 22 July 2019.
- Kharif, Olga (23 April 2019). "John McAfee Vows to Unmask Crypto's Satoshi Nakamoto, Then Backs Off". Bloomberg.
- - "Who Is Satoshi Nakamoto, Inventor of Bitcoin? It Doesn't Matter". Fortune. Retrieved 22 July 2019.
- - Bearman, Sophie (27 October 2017). "Bitcoin's creator may be worth $6 billion — but people still don't know who it is". CNBC. Retrieved 22 July 2019.
- S., L. (2 November 2015). "Who is Satoshi Nakamoto?". The Economist explains. The Economist. Archived from the original on 21 August 2016. Retrieved 3 November 2015.
+| **Front-end:**                                                                                               | **Back-end:**                                                                                                      | **Databases:**                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML"  />                       | <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" height="50" width="120"  />       | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MySQL" height="70" width="130"  /> |
+| <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS" height="60" width="90"  /> | <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Python" height="50" width="150"  /> |                                                                                                                 |
+| <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS"  />                     | <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django"  />                 |                                                                                                                 |
+| <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React"  />                        |                                                                                                                    |                                                                                                                 |
+
+## PASSION AND INTERESTS
+
+Apart from coding, I am particularly interested in automation, Python, and leveraging tools like Selenium for efficient and scalable testing. I thrive on learning new technologies and staying up-to-date with industry trends, allowing me to deliver cutting-edge solutions.
