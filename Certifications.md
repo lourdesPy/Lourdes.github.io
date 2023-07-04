@@ -24,11 +24,7 @@ permalink: certifications
 - [Programming Foundations: Databases](https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io/blob/main/images/Certifications//CertificateOfCompletion_Programming_Foundations_Databases.pdf)
 - [Programming Foundations: Fundamentals](https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io/blob/main/images/Certifications//CertificateOfCompletion_Programming_Foundations_Fundamentals.pdf)
 - [Succeeding in Web Development: Full Stack and Front-End](https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io/blob/main/images/Certifications//CertificateOfCompletion_Succeeding_in_Web_Development_Full_Stack_and_Front_End.pdf)
-
-### SOFTWARE DEVELOPMENT
-
-- [Career Essentials in Software Development by Microsoft and LinkedIn](https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io/blob/main/images/Certifications//CertificateOfCompletion_Career_Essentials_in_Software_Development_by_Microsoft_and_LinkedIn.pdf)
-
+- [Programming Foundations Web Security](https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io/blob/main/images/Certifications//CertificateOfCompletion_Programming_Foundations_Web_Security.pdf)
 ### DATABASE AND SQL
 
 - [Learning SQL Programming - National Association of State Boards of Accountancy](https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io/blob/main/images/Certifications//CertificateOfCompletion_Learning_SQL_Programming_National_Association_of_State_Boards_of_Accountancy.pdf)
@@ -37,3 +33,8 @@ permalink: certifications
 
 - [Installing Apache, MySQL, and PHP](https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io/blob/main/images/Certifications//CertificateOfCompletion_Installing_Apache_MySQL_and_PHP.pdf)
 - [Selenium Essential Training](https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io/blob/main/images/Certifications//CertificateOfCompletion_Selenium_Essential_Training.pdf)
+
+### linkedIn Learning Paths 
+
+- [Become a Software Developer](https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io/blob/main/images/Certifications//CertificateOfCompletion_Become_a_Software_Developer.pdf)
+- [Career Essentials in Software Development by Microsoft and LinkedIn](https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io/blob/main/images/Certifications//CertificateOfCompletion_Career_Essentials_in_Software_Development_by_Microsoft_and_LinkedIn.pdf)
