@@ -25,6 +25,7 @@ permalink: certifications
 - [Programming Foundations: Fundamentals](https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io/blob/main/images/Certifications//CertificateOfCompletion_Programming_Foundations_Fundamentals.pdf)
 - [Succeeding in Web Development: Full Stack and Front-End](https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io/blob/main/images/Certifications//CertificateOfCompletion_Succeeding_in_Web_Development_Full_Stack_and_Front_End.pdf)
 - [Programming Foundations Web Security](https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io/blob/main/images/Certifications//CertificateOfCompletion_Programming_Foundations_Web_Security.pdf)
+
 ### DATABASE AND SQL
 
 - [Learning SQL Programming - National Association of State Boards of Accountancy](https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io/blob/main/images/Certifications//CertificateOfCompletion_Learning_SQL_Programming_National_Association_of_State_Boards_of_Accountancy.pdf)
