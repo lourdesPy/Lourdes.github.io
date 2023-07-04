@@ -33,7 +33,7 @@ permalink: certifications
 ### OTHER
 
 - [Installing Apache, MySQL, and PHP](https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io/blob/main/images/Certifications/CertificateOfCompletion_Installing_Apache_MySQL_and_PHP.pdf)
-- [Selenium Essential Training](https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io/blob/main/images/Certifications/CertificateOfCompletion_Selenium_Essential_Training.pdf)
+- [Selenium Essential Training](assets\img\Certifications\CertificateOfCompletion_Selenium_Essential_Training.pdf)
 
 ### linkedIn Learning Paths 
 
