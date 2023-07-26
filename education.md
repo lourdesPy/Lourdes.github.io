@@ -13,4 +13,6 @@ Hello, I'm Ivan Weiss, a 23-year-old software developer passionate about craftin
 ### STUDY ABROAD PROGRAM IN WICHITA, KANSAS <a href="https://www.wichita.edu/" rel="some text">![img](assets/img/logos/WSU_vertical_logo_transparent.png){:height="100px" width="100px" .callout}</a>
 
  i had the oportunity to study in the USA with a scholarship offered by BECAL. douring my stay in the Wichita State University i practiced my english to perfection. in the usa i participated in many events and even got to the second phase of a business competition with my idea for an automated reforestation rover 
+
+ youtube presentation ->
 <a href="https://youtu.be/J051XxNL2iM" rel="some text">![img](assets/img/logos/botanicBuddyLogo.png){:height="50px" width="50px" .callout}</a>
