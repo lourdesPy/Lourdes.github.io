@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Machine Learning Suport Vector Machines intro presentation
-tags: automation python pandas selenium marketing adds
+tags: automation python pandas machineLearning suportVectorMachines Presentation
 ---
 automatic Add poster
 
