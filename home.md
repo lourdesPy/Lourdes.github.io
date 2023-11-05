@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-permalink: about
+title: Home
+permalink: home
 ---
 # Welcome to New Beginnings Psychological Services
 
